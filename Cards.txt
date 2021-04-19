@@ -2,9 +2,7 @@
 Lay on Hands,8
 Mark of the Spikeshell,2
 Chaos Nova,5
-Pride’s Furty,4
-
-
+Pride’s Fury,4
 Crimson Sigil Runner,1,1,1
 Redeemed Pariah,2,2,3
 Ace Hunter Kreen,3,2,4
